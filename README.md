@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyperion, aka Jyothish Soman
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning deep learning 
+- 👀 I’m interested in machine learning, ops and data engineering.
+- 🌱 I’m currently in the deep end of making engineering work for machine learning in a multi-vendor world.  
 - 📫 Find me on linkedin
 
 <!---
